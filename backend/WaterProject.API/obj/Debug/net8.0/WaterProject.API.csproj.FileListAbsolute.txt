@@ -52,6 +52,7 @@ C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\Wa
 C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.csproj.CoreCompileInputs.cache
 C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.sourcelink.json
 C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\scopedcss\bundle\WaterProject.API.styles.css
 C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\staticwebassets.development.json
@@ -68,3 +69,4 @@ C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\Wa
 C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.pdb
 C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.genruntimeconfig.cache
 C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\ref\WaterProject.API.dll
+C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\WaterProject.sqlite
