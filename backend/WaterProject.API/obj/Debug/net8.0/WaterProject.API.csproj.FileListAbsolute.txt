@@ -70,3 +70,9 @@ C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\Wa
 C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.genruntimeconfig.cache
 C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\ref\WaterProject.API.dll
 C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\WaterProject.sqlite
+C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\web.config
+C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\WaterProject.API.deps.json
+C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\WaterProject.API.runtimeconfig.json
+C:\Users\dcars\OneDrive - Brigham Young University\Winter 2025\.net\ReactCode\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\publish\WaterProject.API.staticwebassets.endpoints.json
